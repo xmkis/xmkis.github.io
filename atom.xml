@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一杯柠檬茶</title>
+  
+  <subtitle>xmkis.github.io</subtitle>
+  <link href="https://xmkis.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://xmkis.github.io/"/>
+  <updated>2021-07-29T16:00:00.000Z</updated>
+  <id>https://xmkis.github.io/</id>
+  
+  <author>
+    <name>友子😜</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xmkis.github.io/2021/07/30/hello-world/"/>
+    <id>https://xmkis.github.io/2021/07/30/hello-world/</id>
+    <published>2021-07-29T16:00:00.000Z</published>
+    <updated>2021-07-29T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HTML语法</title>
+    <link href="https://xmkis.github.io/2021/04/03/HTML%E8%AF%AD%E6%B3%95/"/>
+    <id>https://xmkis.github.io/2021/04/03/HTML%E8%AF%AD%E6%B3%95/</id>
+    <published>2021-04-03T14:25:06.000Z</published>
+    <updated>2021-07-22T12:18:53.260Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="HTML-基本标记"><a href="#HTML-基本标记" class="headerlink" title="HTML 基本标记"></a>HTML 基本标记</h3><h4 id="头标题"><a href="#头标题" class="headerlink" title="头标题"></a>头标题</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;title&gt;头标题&lt;/title&gt;</span><br></pre></td></tr></table></figure><h4 id="自动跳转"><a href="#自动跳转" class="headerlink" title="自动跳转"></a>自动跳转</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;meta http-equiv=&quot;Refresh&quot; content=&quot;跳转的时间;url=xxx.html&quot;&gt;</span><br></pre></td></tr></table></figure><h4 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;!-- 注释内容 --&gt;</span><br></pre></td></tr></table></figure><h4 id="HTML-标题"><a href="#HTML-标题" class="headerlink" title="HTML 标题"></a>HTML 标题</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;h1&gt;这是一个标题。&lt;/h1&gt;</span><br><span class="line">&lt;h2&gt;这是一个标题。&lt;/h2&gt;</span><br><span class="line">&lt;h3&gt;这是一个标题。&lt;/h3&gt;</span><br></pre></td></tr></table></figure><h4 id="HTML-段落"><a href="#HTML-段落" class="headerlink" title="HTML 段落"></a>HTML 段落</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;p&gt;这是一个段落 &lt;/p&gt;</span><br><span class="line">&lt;p&gt;这是另一个段落&lt;/p&gt;</span><br></pre></td></tr></table></figure><h4 id="HTML-文本格式化"><a href="#HTML-文本格式化" class="headerlink" title="HTML 文本格式化"></a>HTML 文本格式化</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;b&gt;加粗文本&lt;/b&gt;&lt;br&gt;&lt;br&gt;</span><br><span class="line">&lt;i&gt;斜体文本&lt;/i&gt;&lt;br&gt;&lt;br&gt;</span><br><span class="line">&lt;code&gt;电脑自动输出&lt;/code&gt;&lt;br&gt;&lt;br&gt;</span><br><span class="line">这是 &lt;sub&gt; 下标&lt;/sub&gt; 和 &lt;sup&gt; 上标&lt;/sup&gt;</span><br></pre></td></tr></table></figure><h4 id="HTML-链接"><a href="#HTML-链接" class="headerlink" title="HTML 链接"></a>HTML 链接</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;p&gt;&lt;a href=&quot;/index.html&quot;&gt;本文本&lt;/a&gt; 是一个指向本网站中的一个页面的链接。&lt;/p&gt;</span><br><span class="line">&lt;p&gt;&lt;a href=&quot;//www.microsoft.com/&quot;&gt;本文本&lt;/a&gt; 是一个指向万维网上的页面的链接。&lt;/p&gt;</span><br></pre></td></tr></table></figure><h3 id="HTML-图片"><a href="#HTML-图片" class="headerlink" title="HTML 图片"></a>HTML 图片</h3><h4 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;ddd.jpg&quot;&gt;</span><br></pre></td></tr></table></figure><h4 id="图片鼠标悬停"><a href="#图片鼠标悬停" class="headerlink" title="图片鼠标悬停"></a>图片鼠标悬停</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;ddd.jpg&quot; title=&quot;鼠标悬停文字&quot;&gt;</span><br></pre></td></tr></table></figure><h4 id="图片宽度、高度"><a href="#图片宽度、高度" class="headerlink" title="图片宽度、高度"></a>图片宽度、高度</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;images/eg_q_03.jpg&quot; width=&quot;100&quot; height=&quot;100&quot;/&gt;</span><br></pre></td></tr></table></figure><h4 id="图片无法显示"><a href="#图片无法显示" class="headerlink" title="图片无法显示"></a>图片无法显示</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;eg_q_01.jpg&quot; alt=&quot;图片无法显示&quot; /&gt;</span><br></pre></td></tr></table></figure><h4 id="图片边框"><a href="#图片边框" class="headerlink" title="图片边框"></a>图片边框</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;images/8.jpg&quot; border=&quot;10&quot;/&gt;</span><br></pre></td></tr></table></figure><h4 id="图片文字靠右"><a href="#图片文字靠右" class="headerlink" title="图片文字靠右"></a>图片文字靠右</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;images/88.jpg&quot; align=&quot;right&quot;/&gt;</span><br><span class="line">&lt;img src=&quot;images/szss9.jpg&quot; align=&quot;right&quot;/&gt;&lt;br clear=&quot;right&quot;/&gt;</span><br></pre></td></tr></table></figure><h4 id="图片文字靠左"><a href="#图片文字靠左" class="headerlink" title="图片文字靠左"></a>图片文字靠左</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src=&quot;images/szss9.jpg&quot; align=&quot;left&quot;/&gt;</span><br><span class="line">&lt;img src=&quot;images/szss9.jpg&quot; align=&quot;left&quot;/&gt;&lt;br clear=&quot;left&quot;/&gt;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;HTML-基本标记&quot;&gt;&lt;a href=&quot;#HTML-基本标记&quot; class=&quot;headerlink&quot; title=&quot;HTML 基本标记&quot;&gt;&lt;/a&gt;HTML 基本标记&lt;/h3&gt;&lt;h4 id=&quot;头标题&quot;&gt;&lt;a href=&quot;#头标题&quot; class=&quot;headerlink</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://xmkis.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="笔记" scheme="https://xmkis.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客维护</title>
+    <link href="https://xmkis.github.io/2021/02/19/%E5%8D%9A%E5%AE%A2%E7%BB%B4%E6%8A%A4/"/>
+    <id>https://xmkis.github.io/2021/02/19/%E5%8D%9A%E5%AE%A2%E7%BB%B4%E6%8A%A4/</id>
+    <published>2021-02-19T07:20:21.000Z</published>
+    <updated>2021-07-22T12:19:03.307Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="如何搭建自己的博客"><a href="#如何搭建自己的博客" class="headerlink" title="如何搭建自己的博客"></a>如何搭建自己的博客</h2><h3 id="安装环境"><a href="#安装环境" class="headerlink" title="安装环境"></a>安装环境</h3><h4 id="安装Node-js环境-链接"><a href="#安装Node-js环境-链接" class="headerlink" title="安装Node.js环境 链接"></a>安装<em>Node.js</em>环境 <a href="http://nodejs.cn/download/">链接</a></h4><h4 id="查看Node-js-和npm版本"><a href="#查看Node-js-和npm版本" class="headerlink" title="查看Node.js 和npm版本"></a>查看<em>Node.js</em> 和<em>npm</em>版本</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><h4 id="安装-Node-js-淘宝镜像"><a href="#安装-Node-js-淘宝镜像" class="headerlink" title="安装 Node.js 淘宝镜像"></a>安装 <em>Node.js</em> 淘宝镜像</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g cnpm --registry=https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure><p>修改 <em>node</em> 类库默认安装位置(可忽略)</p><p>默认是在 C:\Users\lingStudy\AppData\Roaming\npm</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm config set prefix &quot;D:\nodejs安装路径\node_global&quot;</span><br><span class="line">npm config set cache &quot;D:\nodejs安装路径\node_cache&quot;</span><br></pre></td></tr></table></figure><p>查看修改是否成功</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm root -g</span><br></pre></td></tr></table></figure><h4 id="安装版本控制工具-Git"><a href="#安装版本控制工具-Git" class="headerlink" title="安装版本控制工具 Git"></a>安装版本控制工具 <em><a href="https://git-scm.com/download">Git</a></em></h4><p>配置<em>Git</em>（用来将本地项目托管到码云）</p><ul><li><p><em>Git</em>一些重要配置</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;lxxxxdy&quot;  #码云用户名</span><br><span class="line">git config --global user.email &quot;xxx83@qq.com&quot;   #邮箱</span><br></pre></td></tr></table></figure></li><li><p>生成<em>SSH</em>公钥并添加到码云，实现免密码登录</p><ul><li><p>生产公钥</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa</span><br></pre></td></tr></table></figure></li><li><p>进入 C:\Users\主机名.ssh 目录，把 <em>id_rsa.pub</em> 里面的信息复制到码云的 SSH公钥 中即可</p></li></ul></li></ul><h3 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 <em>Hexo</em></h3><h4 id="全局安装CMD输入"><a href="#全局安装CMD输入" class="headerlink" title="全局安装CMD输入"></a>全局安装<em>CMD</em>输入</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure><h4 id="查看Hexo版本"><a href="#查看Hexo版本" class="headerlink" title="查看Hexo版本"></a>查看<em>Hexo</em>版本</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure><h4 id="创建本地博客站点"><a href="#创建本地博客站点" class="headerlink" title="创建本地博客站点"></a>创建本地博客站点</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init  博客名字</span><br></pre></td></tr></table></figure><p>进入博客目录</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd 目录</span><br></pre></td></tr></table></figure><p>安装 博客 项目的依赖包</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure><p>新建一篇文章</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new 文章名字</span><br></pre></td></tr></table></figure><h3 id="推送到Gitee"><a href="#推送到Gitee" class="headerlink" title="推送到Gitee"></a>推送到<em>Gitee</em></h3><p>将本地项目推送到码云的前提</p><h4 id="在项目根目录下安装git部署插件"><a href="#在项目根目录下安装git部署插件" class="headerlink" title="在项目根目录下安装git部署插件"></a>在项目根目录下安装<em>git</em>部署插件</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><p>修改项目配置文件：*_config.yml*，在最下面，修改如下内容</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: 仓库URL地址</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure><p>使用命令 <em>hexo d</em> 将项目部署到 <em>gitee</em> 远程仓库</p><p>上传成功之后去开启 <em>Gitee Pages</em> 静态网页托管服务</p><p>每次向码云推送之后都要更新一下</p><h3 id="更换主题"><a href="#更换主题" class="headerlink" title="更换主题"></a>更换主题</h3><p>下载好自己喜欢的主要之后</p><p>进入所下载主题根目录下的 theme 目录，将里面的文件复制到自己项目的 theme 目录下</p><p>修改根目录下的配置文件 <em>_config.yml</em></p><p>将 <em><strong>theme:</strong></em> 改成你主题的名字</p><h3 id="写文章"><a href="#写文章" class="headerlink" title="写文章"></a>写文章</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章名称</span><br><span class="line">date: 2021-02-19 15:20:21(创建时间)</span><br><span class="line">tags: 标签名</span><br><span class="line">categories: 分类</span><br><span class="line">description: 描述</span><br><span class="line">comments: 是否开启评论(true or false)</span><br><span class="line">---</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;如何搭建自己的博客&quot;&gt;&lt;a href=&quot;#如何搭建自己的博客&quot; class=&quot;headerlink&quot; title=&quot;如何搭建自己的博客&quot;&gt;&lt;/a&gt;如何搭建自己的博客&lt;/h2&gt;&lt;h3 id=&quot;安装环境&quot;&gt;&lt;a href=&quot;#安装环境&quot; class=&quot;headerli</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://xmkis.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="维护博客" scheme="https://xmkis.github.io/tags/%E7%BB%B4%E6%8A%A4%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Typora-使用技巧</title>
+    <link href="https://xmkis.github.io/2021/02/12/Typora-%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>https://xmkis.github.io/2021/02/12/Typora-%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</id>
+    <published>2021-02-12T07:22:25.000Z</published>
+    <updated>2021-07-22T12:18:56.404Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="常用快捷键和语法"><a href="#常用快捷键和语法" class="headerlink" title="常用快捷键和语法"></a>常用快捷键和语法</h3><p>标题：Ctrl+1、2、3…对应一、二、三…级标题（光标定位到需要设置为标题的行，按快捷键）</p><p><strong>加粗</strong>：Ctrl+B（选中要加粗的文本，按快捷键）</p><p><em>斜体</em>：Ctrl+I（选中要设置斜体的文本，按快捷键）</p><p>下划线：Ctrl+U（选中要加下划线的文本，按快捷键）</p><p>删除线：Alt+Shift+5（选中要加删除线的文本，按快捷键）</p><p><code>代码片段</code>：Ctrl+Shift+`（选中要设置为代码片段的文本，按快捷键）</p><p>代码块：Ctrl+Shift+K（任意位置按快捷键，选择编程语言然后在代码块中输入代码）</p><p>切换到下一行：Ctrl+Enter（任意位置按快捷键，在代码块中可以跳出代码块另起一行）</p><p><a href="https://link.zhihu.com/?target=https://www.baidu.com/">链接</a>：Ctrl+K（先复制链接，然后选中要加链接的文本，按快捷键。Ctrl+左键点击文本可跳转到对应链接）</p><p>取消格式：再次按相同的快捷键即可</p><p>有序列表：数字+点+空格</p><p>任务列表：加号或减号+空格</p><p>切换到列表下一行：Space+Enter</p><p>嵌套列表：按Tab键</p><p>退出列表：按 Shift+Tab</p><p>插入表格：Ctrl+T</p><p>引用：输入&gt;后面加空格，或者Ctrl+Shift+Q</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;常用快捷键和语法&quot;&gt;&lt;a href=&quot;#常用快捷键和语法&quot; class=&quot;headerlink&quot; title=&quot;常用快捷键和语法&quot;&gt;&lt;/a&gt;常用快捷键和语法&lt;/h3&gt;&lt;p&gt;标题：Ctrl+1、2、3…对应一、二、三…级标题（光标定位到需要设置为标题的行，按快捷键）</summary>
+      
+    
+    
+    
+    
+    <category term="笔记" scheme="https://xmkis.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO常用指令</title>
+    <link href="https://xmkis.github.io/2021/02/12/HEXO%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
+    <id>https://xmkis.github.io/2021/02/12/HEXO%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</id>
+    <published>2021-02-12T05:35:25.000Z</published>
+    <updated>2021-07-22T12:18:49.181Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HEXO常用指令"><a href="#HEXO常用指令" class="headerlink" title="HEXO常用指令"></a>HEXO常用指令</h1><p>查看node.js版本号</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure><p>查看npm版本号</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm -v</span><br></pre></td></tr></table></figure><p>查看git版本号</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure><p>新建一篇博客（可直接创建.md文件）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &quot;XXX&quot;</span><br></pre></td></tr></table></figure><p>清理网页缓存（删掉站点根目录下的public文件夹）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure><p>生成静态网站</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure><p>启动本地服务</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure><p>初始化XX文件夹名称</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init 文件夹名称</span><br></pre></td></tr></table></figure><p>升级 HEXO</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm update hexo -g</span><br></pre></td></tr></table></figure><p>全局安装HEXO</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo -g</span><br></pre></td></tr></table></figure><p>Hexo更改主题后启动服务器，界面显如下字符:</p><p>extends includes/layout.pug block content include includes/recent-posts.pug include includes/partial</p><p>解决方案:更换主题之后的指令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive</span><br></pre></td></tr></table></figure><p>更改访问端口 (默认端口为4000，’ctrl + c’关闭server)</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server -p 5000</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;HEXO常用指令&quot;&gt;&lt;a href=&quot;#HEXO常用指令&quot; class=&quot;headerlink&quot; title=&quot;HEXO常用指令&quot;&gt;&lt;/a&gt;HEXO常用指令&lt;/h1&gt;&lt;p&gt;查看node.js版本号&lt;/p&gt;
+&lt;figure class=&quot;highlight plai</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://xmkis.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="笔记" scheme="https://xmkis.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇Hexo blog文章</title>
+    <link href="https://xmkis.github.io/2021/02/12/%E7%AC%AC%E4%B8%80%E7%AF%87Hexo-blog%E6%96%87%E7%AB%A0/"/>
+    <id>https://xmkis.github.io/2021/02/12/%E7%AC%AC%E4%B8%80%E7%AF%87Hexo-blog%E6%96%87%E7%AB%A0/</id>
+    <published>2021-02-12T04:53:58.000Z</published>
+    <updated>2021-07-22T12:19:08.397Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
